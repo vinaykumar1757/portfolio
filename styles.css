@@ -266,7 +266,9 @@ section {
 .about {
     background-color: #ffffff !important;
     position: relative;
+    z-index: 2;
 }
+
 
 
 .about-grid {
